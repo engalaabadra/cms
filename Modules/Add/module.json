@@ -1,0 +1,13 @@
+{
+    "name": "Add",
+    "alias": "add",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Add\\Providers\\AddServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
