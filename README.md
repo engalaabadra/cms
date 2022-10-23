@@ -1,23 +1,30 @@
-# cms
+# README #
 
+This README would normally document whatever steps are necessary to get your application up and running.
 
-## How to use:
+### What is this repository for? ###
 
-- This project has been Finished , but i will develop on it in the future :
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-  - clone the repo.
-  - composer install
-  - php artisan generate:key
-  - php artisan optimize:clear
-  - php artisan passport:install
-  - php artisan storage:link
-  - php artisan migrate
-  - php artisan module:migrate
-  - php artisan db:seed
-  - php artisan module:seed
+### How do I get set up? ###
 
-## Programmers:
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
 
-- Eng-Alaa Badra (Laravel Developer).
-- Eng-Mahmoud Salah (VueJs Developer).
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
 

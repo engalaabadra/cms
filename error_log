@@ -1,0 +1,4 @@
+[30-Sep-2022 20:12:32 UTC] PHP Fatal error:  Cannot declare class CreateMediaTable, because the name is already in use in /home/be7855/takween-project/database/migrations/2022_08_29_014234_create_medias_table.php on line 7
+[30-Sep-2022 20:16:36 UTC] PHP Fatal error:  Cannot declare class CreateMediaTable, because the name is already in use in /home/be7855/takween-project/database/migrations/2022_08_29_014234_create_mediaas_table.php on line 7
+[30-Sep-2022 20:18:12 UTC] PHP Fatal error:  Cannot declare class CreateMediaTable, because the name is already in use in /home/be7855/takween-project/database/migrations/2022_08_29_014234_create_mediaas_table.php on line 7
+[30-Sep-2022 20:45:36 UTC] PHP Fatal error:  Cannot use Modules\Video\Http\Controllers\API\Admin\Categories\VideoController as VideoControllerAdmin because the name is already in use in /home/be7855/takween-project/Modules/Video/Routes/api.php on line 5
